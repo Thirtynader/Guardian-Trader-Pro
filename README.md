@@ -7,7 +7,7 @@
 <p align="center"><i>A risk-managed, one-click trading panel for MetaTrader 4 &amp; 5</i></p>
 
 <p align="center">
-  <strong>100% Free &amp; Open Source &nbsp;|&nbsp; ۱۰۰٪ رایگان و متن‌باز</strong>
+  <strong>100% Free &amp; &nbsp;|&nbsp; کاملا رایگان </strong>
 </p>
 
 <p align="center">
