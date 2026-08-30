@@ -1,6 +1,6 @@
 <a name="top"></a>
 <p align="center">
-  <img src="GTVII-Cover.webp" width="480" alt="Guardian Trader Pro">
+  <img src="GTVII-Cover.webp" width="800" alt="Guardian Trader Pro">
 </p>
 
 <h1 align="center">Guardian Trader Pro</h1>
