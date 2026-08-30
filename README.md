@@ -1,6 +1,6 @@
 <a name="top"></a>
 <p align="center">
-  <img src="GT-Cover.webp" width="480" alt="Guardian Trader Pro">
+  <img src="GTVII-Cover.webp" width="480" alt="Guardian Trader Pro">
 </p>
 
 <h1 align="center">Guardian Trader Pro</h1>
@@ -60,7 +60,7 @@
 |---|---|
 | `Thirtynader-Guardian Trader Pro.ex5` | فایل کامپایل‌شده و آماده‌ی اجرا برای **متاتریدر ۵** |
 | `Thirtynader-Guardian Trader Pro.ex4` | فایل کامپایل‌شده و آماده‌ی اجرا برای **متاتریدر ۴** (بیلد ۶۰۰ به بالا) |
-| `GuardianTraderPro_Guide.docx.docx` | راهنمای کامل کاربر (فارسی و انگلیسی، با صفحه‌ی انتخاب زبان) همه‌ی دکمه‌ها، تنظیمات و مراحل نصب رو با جزئیات کامل توضیح داده |
+| `GuardianTraderPro_Guide.docx` | راهنمای کامل کاربر (فارسی و انگلیسی، با صفحه‌ی انتخاب زبان) همه‌ی دکمه‌ها، تنظیمات و مراحل نصب رو با جزئیات کامل توضیح داده |
 
 > فقط فایل‌های کامپایل‌شده (`.ex4` / `.ex5`) ارائه می‌شن، نه سورس‌کد — کافیه دانلود کنید و مستقیم توی پوشه‌ی `Experts` بذارید، نیازی به کامپایل کردن نیست.
 
